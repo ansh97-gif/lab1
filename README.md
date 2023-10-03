@@ -1,2 +1,2 @@
 # lab1
-This is a simple project to generate employee's credentials to demonstrate OOPs implementation in lab1
+Repository to host all the lab assignments for fullstack course
